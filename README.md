@@ -6,7 +6,7 @@
 <h1 align="center">Namaste🙏, I'm Shivam Sharma</h1>
 <h3 align="center">A Proficient Data Maestro 📊 from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/0ae04c8b576688ce86b3a58447508588.gif?resize=400x0">
+<img align="right" alt="coding" width="329" src="https://img.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_569013-336.jpg">
 
 <ul>
 <li>📚 Constantly evolving as a lifelong learner, I'm presently delving deeper into the realm of Data Analytics.</li>
